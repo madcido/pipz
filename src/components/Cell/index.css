@@ -1,0 +1,76 @@
+.cell {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border: none;
+    background-color: #fff;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+ /* CAPS */
+.s-0001 {
+    background-image: url('../../images/0001.png');
+}
+
+.s-0010 {
+    background-image: url('../../images/0010.png');
+}
+
+.s-0100 {
+    background-image: url('../../images/0100.png');
+}
+
+.s-1000 {
+    background-image: url('../../images/1000.png');
+}
+
+/* LINES */
+.s-0101 {
+    background-image: url('../../images/0101.png');
+}
+
+.s-1010 {
+    background-image: url('../../images/1010.png');
+}
+
+/* CORNERS */
+.s-0011 {
+    background-image: url('../../images/0011.png');
+}
+
+.s-1100 {
+    background-image: url('../../images/1100.png');
+}
+
+.s-0110 {
+    background-image: url('../../images/0110.png');
+}
+
+.s-1001 {
+    background-image: url('../../images/1001.png');
+}
+
+/* TRIPLETS */
+.s-0111 {
+    background-image: url('../../images/0111.png');
+}
+
+.s-1011 {
+    background-image: url('../../images/1011.png');
+}
+
+.s-1101 {
+    background-image: url('../../images/1101.png');
+}
+
+.s-1110 {
+    background-image: url('../../images/1110.png');
+}
+
+/* FULL */
+.s-1111 {
+    background-image: url('../../images/1111.png');
+}

@@ -1,0 +1,7 @@
+.leak {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}

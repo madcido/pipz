@@ -1,0 +1,17 @@
+.button {
+    padding: 0 25px;
+    min-width: 140px;
+    height: 40px;
+    border: 1px solid #333;
+    border-radius: 1px;
+    background-color: #fff;
+    text-align: center;
+    color: #333;
+    font: 600 16px Arial, sans-serif;
+    -webkit-appearance: textfield;
+    -moz-appearance:    textfield;
+    appearance:         textfield;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5) inset;
+    cursor: pointer;
+    filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.5));
+}
